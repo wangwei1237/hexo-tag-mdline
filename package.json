@@ -1,0 +1,29 @@
+{
+  "name": "hexo-tag-mdline",
+  "version": "1.0.0",
+  "description": "The hexo plugin for the [mdline](https://github.com/azu/mdline).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangwei1237/hexo-tag-mdline.git"
+  },
+  "keywords": [
+    "hexo",
+    "timeline",
+    "mdline"
+  ],
+  "author": "Wei Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangwei1237/hexo-tag-mdline/issues"
+  },
+  "homepage": "https://github.com/wangwei1237/hexo-tag-mdline#readme",
+  "bundleDependencies": false,
+  "dependencies": {
+    "mdline": "^1.0.2"
+  },
+  "deprecated": false
+}
